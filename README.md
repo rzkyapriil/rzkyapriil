@@ -3,9 +3,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software.\
 🎓 &nbsp;I'm currently studying Informatics Engineering at the University of Pancasila.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about Software Engineering, Artificial Intelligence, and Game Development.\
 ✉️ &nbsp;You can sent me an email at info.rizkyaprilliansyah@gmail.com! I'll try to respond as soon as I can.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
